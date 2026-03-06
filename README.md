@@ -1,4 +1,4 @@
-#Calificacion estudiantil
+# Calificacion estudiantil
 
 este proyecto debe de calcular las 4 notas de un estudiante, luego de calcularla decir si el estudiante aprobo o se quemo, en caso de que se quemase se habilitaria otra casilla en el que el estudiante pasaria a completivo, si el estudiante aun asi es tan bruto que se quema, se manda para extraordinario pa ve si el estudiante pasa
 
@@ -9,7 +9,7 @@ este proyecto debe de calcular las 4 notas de un estudiante, luego de calcularla
 <img width="799" height="490" alt="image" src="https://github.com/user-attachments/assets/1e5ee36c-f8db-47c3-a4bb-67ca4695e068" />
 
 
-#Contexto Académico:
+## Contexto Académico:
 Nivel: Secundaria Técnico Profesional
 
 Módulo Formativo:Desarrollo de aplicaciones
@@ -18,6 +18,6 @@ Curso / Sección:5to-D2
 
 Año escolar:5to de secundaria
 
-#Creado por:
+## Creado por:
 
 George Albert
